@@ -1,3 +1,5 @@
+<div align="center">
+
 # OmniGen3D: Unified Multi-Modal Text-to-3D Generation
 
 <div align="center">
